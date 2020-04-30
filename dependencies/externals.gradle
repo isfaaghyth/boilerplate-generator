@@ -1,0 +1,14 @@
+ext {
+
+    retrofitVersion = '2.6.0'
+    okHttpVersion = '3.12.5'
+
+    network = [
+            retrofit                : "com.squareup.retrofit2:retrofit:${retrofitVersion}",
+            converterGson           : "com.squareup.retrofit2:converter-gson:${retrofitVersion}",
+            okHttp                  : "com.squareup.okhttp3:okhttp:${okHttpVersion}",
+            loggingInterceptor      : "com.squareup.okhttp3:logging-interceptor:${okHttpVersion}",
+            retrofitKotlinCoroutine : "com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2",
+    ]
+
+}
