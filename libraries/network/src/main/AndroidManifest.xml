@@ -1,2 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="app.isfaaghyth.network" />
+<manifest package="app.isfaaghyth.network" />
