@@ -12,10 +12,10 @@ ext {
     ]
 
     network = [
-            converterGson               : "com.squareup.retrofit2:converter-gson:2.6.0",
-            loggingInterceptor          : "com.squareup.okhttp3:logging-interceptor:3.12.5",
-            okHttp                      : "com.squareup.okhttp3:okhttp:3.12.5",
-            retrofit                    : "com.squareup.retrofit2:retrofit:2.6.0",
+            "converterGson"             : "com.squareup.retrofit2:converter-gson:2.6.0",
+            "loggingInterceptor"        : "com.squareup.okhttp3:logging-interceptor:3.12.5",
+            "okHttp"                    : "com.squareup.okhttp3:okhttp:3.12.5",
+            "retrofit"                  : "com.squareup.retrofit2:retrofit:2.6.0",
     ]
 
     misc = [
