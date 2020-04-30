@@ -1,0 +1,7 @@
+ext {
+
+    libraries = [
+            "home"       : ":features:home"
+    ]
+
+}
